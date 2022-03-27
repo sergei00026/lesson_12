@@ -100,6 +100,7 @@ div[class*="__container"] {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   background: #bfbfbf;
+  position: relative;
 }
 
 a[class*="__tel"]:hover {

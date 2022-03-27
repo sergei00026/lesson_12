@@ -12,6 +12,7 @@ div[class*="__container"] {
 	height: 800px;
 	box-sizing: border-box;
 	background: #bfbfbf;
+	position: relative;
 }
 a[class*="__tel"] {
 	&:hover {
